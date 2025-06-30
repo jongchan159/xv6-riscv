@@ -8,6 +8,7 @@
 - ps : The funciton that prints out process(s)’s information, which includes name, pid, state and priority(nice value) of each process.
 - meminfo : The function that prints available memory in bytes.
 - waitpid : The function that suspends execution until the specified process terminates
+### Implementation
   
 ## PA2
 ### Goal : 
