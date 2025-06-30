@@ -2,7 +2,7 @@
 2025-1 Operating System Assignment
 
 ## PA1
-Goal : Make new System Calls
+### Goal : Make new System Calls
 - getnice
 - setnice
 - ps
